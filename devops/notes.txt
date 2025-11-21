@@ -1,1 +1,2 @@
 This is the first verson of the course
+Adding new changes to the file
